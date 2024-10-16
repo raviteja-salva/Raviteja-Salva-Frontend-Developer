@@ -3,7 +3,7 @@
 EthAI is a beautifully designed and fully responsive landing page with stylish animations, built to introduce and showcase the EthAI project. This project focuses on creating an immersive and visually appealing user experience.
 
 ## 🖥️ Live Demo
-Check out the live demo hosted on Vercel: [EthAI Landing Page](your-vercel-link)
+Check out the live demo hosted on Vercel: [EthAI Landing Page](https://raviteja-salva-frontend-developer.vercel.app/)
 
 ## 📂 Sections
 
